@@ -1,0 +1,14 @@
+C:\Users\deadn\Desktop\vscode c#\Sorters\Sorters\bin\Debug\net8.0\Sorters.exe
+C:\Users\deadn\Desktop\vscode c#\Sorters\Sorters\bin\Debug\net8.0\Sorters.deps.json
+C:\Users\deadn\Desktop\vscode c#\Sorters\Sorters\bin\Debug\net8.0\Sorters.runtimeconfig.json
+C:\Users\deadn\Desktop\vscode c#\Sorters\Sorters\bin\Debug\net8.0\Sorters.dll
+C:\Users\deadn\Desktop\vscode c#\Sorters\Sorters\bin\Debug\net8.0\Sorters.pdb
+C:\Users\deadn\Desktop\vscode c#\Sorters\Sorters\obj\Debug\net8.0\Sorters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deadn\Desktop\vscode c#\Sorters\Sorters\obj\Debug\net8.0\Sorters.AssemblyInfoInputs.cache
+C:\Users\deadn\Desktop\vscode c#\Sorters\Sorters\obj\Debug\net8.0\Sorters.AssemblyInfo.cs
+C:\Users\deadn\Desktop\vscode c#\Sorters\Sorters\obj\Debug\net8.0\Sorters.csproj.CoreCompileInputs.cache
+C:\Users\deadn\Desktop\vscode c#\Sorters\Sorters\obj\Debug\net8.0\Sorters.dll
+C:\Users\deadn\Desktop\vscode c#\Sorters\Sorters\obj\Debug\net8.0\refint\Sorters.dll
+C:\Users\deadn\Desktop\vscode c#\Sorters\Sorters\obj\Debug\net8.0\Sorters.pdb
+C:\Users\deadn\Desktop\vscode c#\Sorters\Sorters\obj\Debug\net8.0\Sorters.genruntimeconfig.cache
+C:\Users\deadn\Desktop\vscode c#\Sorters\Sorters\obj\Debug\net8.0\ref\Sorters.dll
